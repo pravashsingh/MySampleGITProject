@@ -1,0 +1,2 @@
+# MySampleGITProject
+~/MySampleGITProject
